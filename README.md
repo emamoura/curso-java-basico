@@ -1,2 +1,2 @@
-# curso-java-basico-loiane
+# Exercícios do Curso de Java Básico da Loiane
  
