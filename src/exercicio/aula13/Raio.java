@@ -10,7 +10,6 @@ public class Raio {
 		System.out.println("Digite o valor do raio do círculo e mostrarei sua área:");
 		
 		Double raio = sc.nextDouble();
-		Double pi = 3.14;
 		Double area = Math.PI * (raio * raio);
 		
 		System.out.println("O valor da área do círculo é: " + area);

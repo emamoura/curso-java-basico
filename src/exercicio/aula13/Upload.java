@@ -12,11 +12,12 @@ public class Upload {
 		
 		System.out.println("Digite a sua velocidade de internet em MB/s");
 		double velocidade = sc.nextDouble();
-		
 		double tempo = (arquivo / velocidade);
 		
 		System.out.println("O tempo médio gasto "
 				+ "para upar esse arquivo na internet é de " + tempo + " s");
+		
+		sc.close();
 	}
 
 }
